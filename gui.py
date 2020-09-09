@@ -119,3 +119,4 @@ if __name__ == '__main__':
     show_vid()
     show_vid2()
     root.mainloop()
+    
