@@ -66,7 +66,7 @@ while True:
     ret, frame = cap.read()
     if not ret:
         break
-    bounding_box = cv2.CascadeClassifier('/home/shivam/.local/lib/python3.6/site-packages/cv2/data/haarcascade_frontalface_default.xml')
+    bounding_box = cv2.CascadeClassifier('/home/Saurabh/.local/lib/python3.6/site-packages/cv2/data/haarcascade_frontalface_default.xml')
     gray_frame = cv2.cvtColor(frame, cv2.COLOR_BGR2gray_frame)
     num_faces = bounding_box.detectMultiScale(gray_frame,scaleFactor=1.3, minNeighbors=5)
 
