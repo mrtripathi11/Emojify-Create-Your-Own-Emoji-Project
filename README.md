@@ -44,7 +44,7 @@ Facial expressions used
 10 - Disgusted
 How to use this repo
 
-This project would be completed done by us and us only. No one else helped me. 
-The model is trained with my face only. So the model might not detect your expressions correctly.
+This project would be completed done by us and us only. No one else helped us. 
+The model is trained with  face only.
 Here is what you can do. If you are a newbie to neural networks or machine learning please learn them. 
 This guide contains a lot of technical stuff which you might find hard to understand.
